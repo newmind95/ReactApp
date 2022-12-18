@@ -84,17 +84,10 @@
 .skyshaped {
   width: 150px;
   position: absolute;
-  left: -16%;
+  left: 35%;
   bottom: 5%;
+  clip-path: ellipse(118px 350px at 128% 85%);
   border-radius: 50%;
   box-shadow: rgba(0, 0, 0, 0.50) 0 10px 10px 3px;
 }
 
-.unicorn {
-  width: 150px;
-  position: fixed;
-  right: -12%;
-  bottom: -6%;
-  border-radius: 50%;
-  box-shadow: rgba(0, 0, 0, 0.30) 5px 5px 10px 10px;
-}

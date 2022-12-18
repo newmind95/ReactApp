@@ -2,7 +2,6 @@ import { useState } from 'react';
 import googlepay from '../ASSTETS DONUT SHOP/google-pay.png';
 import applepay from '../ASSTETS DONUT SHOP/apple-pay.png';
 import skyshaped from '../ASSTETS DONUT SHOP/sky_shaped.svg';
-import unicorndust from '../ASSTETS DONUT SHOP/unicorn_dust.svg';
 import './payment.css';
 import PreparePage from './PreparePage';
 import Title from '../components/Title';
@@ -35,7 +34,6 @@ const PaymentPage = () => {
             <img className="g-pay-img" src={googlepay} alt="g-pay img" />
           </button>
           <img className="skyshaped" src={skyshaped} alt="skyshaped donut" />
-          <img className="unicorn" src={unicorndust} alt="unicorndust donut" />
         </div> :
       <PreparePage />
       }
