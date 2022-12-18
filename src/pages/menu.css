@@ -1,0 +1,141 @@
+.menu-page {
+  background-color: #21E8E5;
+  width: 428px;
+  height: 926px;
+  left: 0px;
+  top: 0px;
+  margin: auto;
+}
+
+.p3 {
+  position: absolute;
+  left: 23.46%;
+  right: 8.41%;
+  top: 6.16%;
+  bottom: 86.07%;
+  font-family: 'Outfit';
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 72px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.p4 {
+  position: absolute;
+  left: 14%;
+  right: 8.41%;
+  top: 11.99%;
+  bottom: 80.24%;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 72px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.sky-shaped {
+  position: fixed;
+  left: 20.99%;
+  right: 46.96%;
+  top: 28.73%;
+  bottom: 63.07%;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 38px;
+  text-align: right;
+  color: #FFFFFF;
+}
+
+.sky-img {
+  position: absolute;
+  width: 100px;
+  left: 55%;
+  top: 27%;
+  right: 50.32%;
+  bottom: 63.07;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.30) 0 6px 3px 3px;
+}
+
+.marble-magic {
+  position: absolute;
+  left: 19.99%;
+  right: 46.96%;
+  top: 47.19%;
+  bottom: 44.6%;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 38px;
+  text-align: right;
+  color: #FFFFFF;
+}
+
+.mm-img {
+  position: absolute;
+  width: 100px;
+  left: 55%;
+  top: 45%;
+  right: 50.32%;
+  bottom: 63.07%;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.30) 0 6px 3px 3px;
+}
+
+.true-blood {
+  position: absolute;
+  left: 21.03%;
+  right: 48.36%;
+  top: 66.41%;
+  bottom: 25.38%;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 38px;
+  text-align: right;
+  color: #FFFFFF;
+}
+
+.truebl-img {
+  position: absolute;
+  width: 100px;
+  left: 55%;
+  top: 65%;
+  right: 50.32%;
+  bottom: 80.07%;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.30) 0 6px 3px 3px;
+}
+
+.uni-dust{
+  position:absolute;
+  left: 11.92%;
+  right: 46.96%;
+  top: 84.88%;
+  bottom: 6.91%;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 38px;
+  text-align :right;
+  color: #FFFFFF;
+}
+
+.unidust-img {
+  position: absolute;
+  width: 100px;
+  left: 55%;
+  top: 83%;
+  right: 50.32%;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.30) 0 6px 3px 3px;
+}
