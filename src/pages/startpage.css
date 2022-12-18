@@ -1,0 +1,79 @@
+.start-page {
+    background: linear-gradient(310deg, #FF86B3 60%, #FFE84A 30%);
+    width: 428px;
+    height: 926px;
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  .img-spark {
+    position: absolute;
+    top: -20%;
+    right: 34%;
+    width: 520px; 
+    clip-path: ellipse(160px 480px at 43%);
+  }
+  
+  .img-trueblood {
+    width: 200px;
+    position: absolute;
+    top: 15%;
+    right: 38%;
+    clip-path: ellipse(160px 480px at 12%);
+    border-radius: 60%;
+    box-shadow: rgba(0, 0, 0, 0.10) 0px 20px 4px 5px;
+  }
+  
+  .img-uni {
+    position: absolute;
+    top: -5%;
+    right: 52%;
+    width: 200px;
+    clip-path: ellipse(156px 450px at 90% 50%);
+    border-radius: 60%;
+    box-shadow: rgba(0, 0, 0, 0.10) 0px 20px 4px 5px;
+  }
+  
+  .p1 {
+    position: absolute;
+    width: 99px;
+    height: 72px;
+    left: 54%;
+    top: 592px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 72px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  
+  .p2 {
+    position: absolute;
+    width: 372px;
+    height: 144px;
+    left: 40%;
+    top: 646px;
+    text-align: center;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 72px;
+    color: #FFFFFF;
+  }
+  
+  .start-btn {
+    position: absolute;
+    width: 276px;
+    height: 76px;
+    left: 42.5%;
+    top: 828px;
+    font-family: 'Outfit';
+    color: #282828;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: bold;
+    background: #FFFFFF;
+  }
